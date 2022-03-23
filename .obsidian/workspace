@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Ads.md",
+            "file": "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Workspace.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Ads.md",
+                "file": "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Workspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +117,15 @@
   },
   "active": "7830958eedf8a07d",
   "lastOpenFiles": [
-    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Ads.md",
-    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Analytics.md",
-    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Tools.md",
     "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Workspace.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Analytics.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Ads.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Tools.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Marketing.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/1. MKT, PP, BOOKS, REFS, DOCS.md",
+    "2. Aprendizado/2. Aprendizado.md",
     "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Sites/Sites.md",
     "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Profissões/Profissões.md",
-    "1. MKT, PP, BOOKS, REFS, DOCS/Conceitos/1. Conceitos.md",
-    "1. MKT, PP, BOOKS, REFS, DOCS/Conceitos/Conceitos.md",
-    "1. MKT, PP, BOOKS, REFS, DOCS/Conceitos/Outros.md",
-    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Marketing.md"
+    "1. MKT, PP, BOOKS, REFS, DOCS/Conceitos/1. Conceitos.md"
   ]
 }
