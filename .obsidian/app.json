@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "communityPluginSortOrder": "download",
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-US",
+    "en-GB"
+  ]
+}

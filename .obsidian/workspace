@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "4289b90312308463",
+    "type": "split",
+    "children": [
+      {
+        "id": "7830958eedf8a07d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Ads.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63a920a10b384257",
+    "type": "split",
+    "children": [
+      {
+        "id": "b11acaa57c9c35d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fe8a34d65e27bd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e68a0bfe2d33f8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#review",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "78ab08722bba2601",
+    "type": "split",
+    "children": [
+      {
+        "id": "f607b8274c180aec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c449a337ad2e86ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Ads.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "acd317c071e0d6cb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fbee502b39dbc4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c518fd0f13b49ea",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7830958eedf8a07d",
+  "lastOpenFiles": [
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Ads.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Analytics.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Tools.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Google Tools/Google Workspace.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Sites/Sites.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Profissões/Profissões.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Conceitos/1. Conceitos.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Conceitos/Conceitos.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Conceitos/Outros.md",
+    "1. MKT, PP, BOOKS, REFS, DOCS/Marketing/Marketing.md"
+  ]
+}

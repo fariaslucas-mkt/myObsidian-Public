@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "f1b363722603350c",
+    "type": "split",
+    "children": [
+      {
+        "id": "34220ff3db13a5af",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Google Tools/1. Index.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fd591120bf6258c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c662db508001a0a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5960cd70386a0356",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4181621bc4d58516",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e0947fe3f80aa41",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d20a62aa512c51b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c55800fb57ceb1d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Google Tools/1. Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "34220ff3db13a5af",
+  "lastOpenFiles": [
+    "Google Tools/1. Index.md",
+    "Conceitos/1. Index.md",
+    "Profissões/1. Index.md",
+    "Sites/1. Index.md",
+    "Tools/1. Index.md"
+  ]
+}
