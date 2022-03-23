@@ -23,6 +23,6 @@ Essa é uma coleção de todas as minhas notas relacionadas ao meu curso superio
 ## Ver estas notas no Obsidian
 - [Faça o download do repositório](https://github.com/fariaslucas-mkt/Obsidian/archive/refs/heads/main.zip)
 - Extraia a pasta principal em qualquer lugar
-- Baixa, instale e abra o [Obsidian](https://obsidian.md/)
-- Na telas de início, selecione *abrir pasta como cobre/abrir pasta como vault*
-- Seleciona a pasta que foi extraída (*obsidian-main*)
+- Baixe, instale e abra o [Obsidian](https://obsidian.md/)
+- Na tela de início, selecione *abrir pasta como cofre/abrir pasta como vault*
+- Selecione a pasta que foi extraída (*obsidian-main*)
