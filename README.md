@@ -1,6 +1,6 @@
 ![myobsidian](git-res/git-obsidian-banner.png)
 
-> [Leia em Português](/README-PTBR.md)
+> [**Leia em Português**](/README-PTBR.md)
 
 # myObsidian
 Notes and knowledge base/network using [Obsidian](https://obsidian.md/)
