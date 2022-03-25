@@ -31,6 +31,7 @@ This is a colletion of all my notes regarding my studies on AMC (Advertising and
 
 ### Troubleshooting
 [Using token to login](https://stackoverflow.com/questions/22147574/fatal-could-not-read-username-for-https-github-com-no-such-file-or-directo)
+
 [Generating token](https://catalyst.zoho.com/help/tutorials/githubbot/generate-access-token.html)
 
 ```
