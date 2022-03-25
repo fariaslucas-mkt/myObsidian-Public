@@ -22,7 +22,7 @@ This is a colletion of all my notes regarding my studies on AMC (Advertising and
 - Extract the main folder anywhere you want
 - Download, install and open [Obsidian](https://obsidian.md/)
 - On the the start-up screen, select *open folder as vault*
-- Select the main folder your downloaded (*obsidian-main*)
+- Select the main folder you downloaded (*obsidian-main*)
 ---
 ### Using Obsidian Git plugin for free auto-sync
 [Installation guide](https://github.com/denolehov/obsidian-git/wiki/Installation)
